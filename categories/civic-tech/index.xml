@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civic Tech on OKF</title>
+    <link>https://beta.okfn.de/categories/civic-tech/</link>
+    <description>Recent content in Civic Tech on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="https://beta.okfn.de/categories/civic-tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Offener Haushalt</title>
+      <link>https://beta.okfn.de/projekte/offenerhaushalt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/offenerhaushalt/</guid>
+      <description>Die zentrale Aufgabe eines Parlaments ist die Aufstellung und Debatte eines Haushalts. Dieser essentielle politische Prozess entscheidet, welche Tätigkeiten der Staat ausführen kann, und welche Leistungen nicht bereitgestellt werden können. Haushaltsdaten müssen per Gesetz veröffentlicht werden. Leider ist dabei das Format nicht vorgeschrieben, was dazu führt, dass Hefte mit über 1000 Seiten gedruckt werden und im Rathaus versauern oder als PDF-Dateien auf die Webseiten gestellt werden. Dadurch bleibt ein wesentlicher Aspekt der politischen Arbeit für viele verschlossen.</description>
+    </item>
+    
+    <item>
+      <title>Open Budgets</title>
+      <link>https://beta.okfn.de/projekte/openbudgets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/openbudgets/</guid>
+      <description>OpenBudgets ist ein EU-Horizon2020 gefördertes Projekt, das europaweit die Daten des öffentlichen Haushalts in zentraler und transparenter Form zugänglich machen möchte.
+Der derzeitige Mangel an offenen Haushalts- und Transaktionsdaten erschwert es den Bürgern und anderen Beteiligten sehr, sich einen Überblick über die öffentlichen Ausgaben zu verschaffen. Noch schwieriger erweist sich der Vergleich der Haushalte zwischen Verwaltungsregionen und anderen Regierungsebenen.
+Die OpenBudgets-Plattform ist für öffentliche Verwaltungen, Bürger, NGOs, Medienorganisationen, öffentliche Dienstleistungsunternehmen und Interessengruppen, die mit Steuerdaten arbeiten, konzipiert.</description>
+    </item>
+    
+    <item>
+      <title>Prototype Fund</title>
+      <link>https://beta.okfn.de/projekte/prototypefund/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/prototypefund/</guid>
+      <description>Mit dem Prototype Fund unterstützen wir gesellschaftlich relevante Software-Projekte und erhöhen ihre nachhaltige Wirkung durch Open Source aus Prinzip. Kurz: Wir fördern Public Interest Tech. Wir machen digital-soziale Innovation möglich; mit Entwicklerinnen-Gruppen, die ganz unterschiedliche Kompetenzen in die Technikgestaltung einbringen und ihre guten Ideen weitergeben. Mit bis zu 47.500 Euro pro Projekt und Team unterstützt der Fördertopf Softwareentwickler*innen, Hacker*innen und Kreative dabei, Skizzen für Tools und Anwendungen in den Bereichen Civic Tech, Data Literacy, IT-Sicherheit und Software–Infrastruktur umzusetzen.</description>
+    </item>
+    
+    <item>
+      <title>https.jetzt</title>
+      <link>https://beta.okfn.de/projekte/httpsjetzt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/httpsjetzt/</guid>
+      <description>https.jetzt! ist ein Projekt, um zu zeigen, wie viele Behördenwebseiten HTTPS unterstützen. Wieso ist eine Verschlüsselung von Websites wichtig? Jede nicht verschlüsselte Übertragung von Daten kann im Internet abgefangen und somit auch manipuliert werden. Deshalb leuchtet wohl unmittelbar ein, dass jede Übertragung sensibler Daten, etwa bei Bestellungen in Online-Shops, beim Online-Banking oder auch bei Logins auf Websites mit nicht-öffentlichen Inhalten nur verschlüsselt erfolgen sollte. Für den User bedeutet das: Im Zweifel, etwa bei der Benutzung von Online-Bestellformularen, sollte man immer in der Adresszeile prüfen, ob dort eine verschlüsselte Übertragung angezeigt wird.</description>
+    </item>
+    
+    <item>
+      <title>kleineAnfragen</title>
+      <link>https://beta.okfn.de/projekte/kleineanfragen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/kleineanfragen/</guid>
+      <description>Das Fragerecht ist ein wichtiges Recht der Abgeordneten – und ein häufig genutztes parlamentarisches Kontrollinstrument. Allein im Bundestag werden pro Wahlperiode tausende kleine Anfragen gestellt, die von der Regierung schriftlich beantwortet werden müssen. Nimmt man die Anfragen in den Länderparlamenten hinzu, ist dies ein riesiger, aber in den verschiedenen Onlinearchiven verstreuter Fundus nützlicher Informationen. Auf kleineanfragen.de sammelt und bündeln wir diese Dokumente und machen sie so – als Beitrag zu Transparenz und Partizipation – leichter für die Öffentlichkeit zugänglich.</description>
+    </item>
+    
+  </channel>
+</rss>

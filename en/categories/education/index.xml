@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on OKF DE</title>
+    <link>https://beta.okfn.de/en/categories/education/</link>
+    <description>Recent content in Education on OKF DE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="https://beta.okfn.de/en/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DARIAH-DE</title>
+      <link>https://beta.okfn.de/en/projekte/dariah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/dariah/</guid>
+      <description>DARIAH-DE supports digitally-enabled research and teaching in the arts and humanities. For this purpose, the project is developing a research infrastructure in support of service and research data as well as materials for research and teaching in the Digital Humanities. DARIAH-DE is the german national contribution to the European research infrastructure &amp;ldquo;DARIAH-EU - Digital Research Infrastructure for the Arts and Humanities&amp;rdquo; within the framework of ESFRI.
+As a project partner, we support DARIAH-DE with the communication and dissemination of the allignment, content, and results of the digital humanities.</description>
+    </item>
+    
+    <item>
+      <title>Daten machen Schule</title>
+      <link>https://beta.okfn.de/en/projekte/datenmachenschule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/datenmachenschule/</guid>
+      <description>DatenmachenSchule is a place where the potential of using open data in the classroom is illustrated. Based on the pioneering work of the Rhein-Waal University of Applied Sciences, the Adolfinum Grammar School, the City of Moers and the Lower Rhine University of Applied Sciences OK-Lab, information and resources have been compiled that will enable teachers and schools to use applications based on open data. The OffenerHaushalt. de tool has been technically and structurally redesigned to visualize data on tax expenditure and thus make it clear and tangible.</description>
+    </item>
+    
+    <item>
+      <title>Datenschule</title>
+      <link>https://beta.okfn.de/en/projekte/datenschule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/datenschule/</guid>
+      <description>Energy data, environmental data, traffic data. More and more data is available to us today. We believe that the goal-oriented usage of relevant datasets could help nonprofit organizations to more effectively achieve their social objectives. However, only a few organizations have the required skills to work with data.
+The Open Knowledge Foundation Germany has developed a data training program, covering everything from the finding, analyzing and visualizing of data to the design of data-driven campaigns.</description>
+    </item>
+    
+    <item>
+      <title>Demokratielabore</title>
+      <link>https://beta.okfn.de/en/projekte/demokratielabore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/demokratielabore/</guid>
+      <description>The &amp;ldquo;Demokratielabore&amp;rdquo; or Democracy Labs is a pilot project for adolescents between the age of 12 and 21. We aim to foster self-efficacy and empower young people by using technology for democracy. We strive to let children and young adults experience their own digital skills as a powerful tool to get involed in a democratic society as active and self-determined members. To reach that goal we organize workshops, establish working groups and run an online tv channel.</description>
+    </item>
+    
+    <item>
+      <title>Familienlabore</title>
+      <link>https://beta.okfn.de/en/projekte/familienlabore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/familienlabore/</guid>
+      <description>The shaping of family life in Germany has changed enormously in recent decades. Patchwork families, multi-generation houses and households of single parents bring completely different requirements with them. One of the biggest challenges is and remains the compatibility of family and career. Or to put it another way: Is it really necessary to have to sit in a doctor&amp;rsquo;s waiting room for three hours each time? We think: this works better.</description>
+    </item>
+    
+    <item>
+      <title>Jugend hackt</title>
+      <link>https://beta.okfn.de/en/projekte/jugendhackt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/jugendhackt/</guid>
+      <description>Jugend hackt is a program designed to support young coders.
+While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht’ (Science) have been established in Germany for decades, there are few intiatives directed towards young talent in the field of software development. To fill this gap, Open Knowledge Foundation Deutschland e.V., together with the media education agency, Mediale Pfade, organized the first Jugend hackt event in 2013. Since then, it has become a successful and well-established hackathon for young coders from all over Germany.</description>
+    </item>
+    
+    <item>
+      <title>Turing-Bus</title>
+      <link>https://beta.okfn.de/en/projekte/turing-bus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/turing-bus/</guid>
+      <description>The Turing Bus is a mobile educational service for schools and youth clubs in rural areas. The bus brings representatives of Fablabs, OK-Labs and Hackspaces as well as experts in digital topics to often underserved places of youth education in order to generate an exchange of knowledge through workshops, discussion formats, screenings and more. The project is funded in the science year 2018 - &amp;ldquo;Workplaces of the Future&amp;rdquo;.
+The bus wants to explore, discuss and critically question the role of digitisation and technology for profession and society with workshops, lectures and hands-on sessions.</description>
+    </item>
+    
+    <item>
+      <title>edulabs</title>
+      <link>https://beta.okfn.de/en/projekte/edulabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/edulabs/</guid>
+      <description>edulabs sees itself as a supra-regional incubator in which people use their didactic, technical and creative skills to develop innovative and re-usable educational materials. The project works on three levels: Concept development, provision and advertising of free educational materials as well as community building and support. Throughout Germany edulabs organizes meetings of interdisciplinary teams where free educational materials (OER) and digitally supported methods are evaluated, created, documented and improved. The lab community is supported editorially, didactically, technically, as well as with the organization of Events.</description>
+    </item>
+    
+  </channel>
+</rss>

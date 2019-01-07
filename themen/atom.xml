@@ -1,0 +1,57 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Themen on OKF</title>
+  <link rel="self" href="https://beta.okfn.de/themen/"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>YOUR NAME HERE</name>
+    <email>YOUR EMAIL ADDRESS</email>
+    <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
+  </author>
+  <id>https://beta.okfn.de/themen/</id>
+  
+  <entry>
+    <title>Open Data</title>
+    <link rel="alternate" href="https://beta.okfn.de/themen/open_data/"/>
+    <id>https://beta.okfn.de/themen/open_data/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und share-alike. Davon ausgenommen sind personenbezogene Daten.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Civic Tech</title>
+    <link rel="alternate" href="https://beta.okfn.de/themen/civic_tech/"/>
+    <id>https://beta.okfn.de/themen/civic_tech/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Civic Tech&lt;/strong&gt; ist ein Prozess, der neue Technologien und digitale Innovationen mit Regierungen und Verwaltungen vereinen will, um so neue und bessere Möglichkeiten für die Realisierung zivilgesellschaftlicher Interessen zu schaffen. Offene Daten sind dabei das Fundament der dabei entwickelten Anwendungen, Tools und Dienste.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Offenes Regierungshandeln</title>
+    <link rel="alternate" href="https://beta.okfn.de/themen/offenes_regierungshandeln/"/>
+    <id>https://beta.okfn.de/themen/offenes_regierungshandeln/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Open Government oder Offenes Regierungshandeln meint die Öffnung des öffentlichen Sektors gegenüber der Zivilgesellschaft.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Offene Bildung</title>
+    <link rel="alternate" href="https://beta.okfn.de/themen/bildung/"/>
+    <id>https://beta.okfn.de/themen/bildung/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Offene Bildung ist ein Überbegriff für Initiativen im digitalen, politischen und formalen Bildungsbereich, die partizipativ, zeitgemäß und offen gestaltet sind und Bildung als Gemeingut fördern möchten.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Informationsfreiheit</title>
+    <link rel="alternate" href="https://beta.okfn.de/themen/informationsfreiheit/"/>
+    <id>https://beta.okfn.de/themen/informationsfreiheit/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Informationsfreiheit ist das Recht auf freien Zugang zu amtlichen Informationen. Sie ist eines der wichtigsten Grundrechte in der Wissensgesellschaft, das sich aus &lt;a href=&#34;https://www.gesetze-im-internet.de/gg/art_5.html&#34;&gt;Artikel 5 des Grundgesetzes zur Meinungs- und Informationsfreiheit&lt;/a&gt; ergibt.&lt;/p&gt;</summary>
+  </entry>
+  
+</feed>

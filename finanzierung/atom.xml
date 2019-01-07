@@ -1,0 +1,41 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Finanzierung on OKF</title>
+  <link rel="self" href="https://beta.okfn.de/finanzierung/"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>YOUR NAME HERE</name>
+    <email>YOUR EMAIL ADDRESS</email>
+    <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
+  </author>
+  <id>https://beta.okfn.de/finanzierung/</id>
+  
+  <entry>
+    <title>Entwicklung</title>
+    <link rel="alternate" href="https://beta.okfn.de/finanzierung/entwicklung/"/>
+    <id>https://beta.okfn.de/finanzierung/entwicklung/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Der Großteil (&amp;gt;70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Hand. Diese beziehen wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten. Einzelspenden entsprechen ca. 20% unserer Einnahmen. Akteure der Privatwirtschaft stellen aktuell 7% unserer Gelder bereit. Wir sind bestrebt, eine heterogene Förderung mit geringem Privatwirtschaftlichen Anteil beizubehalten, um die Unabhängigkeit unserer Arbeit zu gewährleisten.</summary>
+  </entry>
+  
+  <entry>
+    <title>Einnahmen 2017</title>
+    <link rel="alternate" href="https://beta.okfn.de/finanzierung/einnahmen/"/>
+    <id>https://beta.okfn.de/finanzierung/einnahmen/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Der Großteil (&amp;gt;70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Hand. Diese beziehen wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten. Einzelspenden entsprechen ca. 20% unserer Einnahmen. Akteure der Privatwirtschaft stellen aktuell 7% unserer Gelder bereit. Wir sind bestrebt, eine heterogene Förderung mit geringem Privatwirtschaftlichen Anteil beizubehalten, um die Unabhängigkeit unserer Arbeit zu gewährleisten.
+Einnahmen im Überblick  Durch Einzelspenden finanzierte oder auf ehrenamtlicher Arbeit beruhende Projekte  Wir sowie unsere Community entwickelt digitale Bürgerbeteiligungs-Werkzeuge auf der Basis Offener Daten, um den öffentlichen Sektor gegenüber der Zivilgesellschaft zu öffnen.</summary>
+  </entry>
+  
+  <entry>
+    <title>Ausgaben 2017</title>
+    <link rel="alternate" href="https://beta.okfn.de/finanzierung/ausgaben/"/>
+    <id>https://beta.okfn.de/finanzierung/ausgaben/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Der größte Teil der finanziellen Zuwendungen und Umsätze ist Zweckgebunden für die Durchführung von Projekten und die Organisation von Veranstaltungen. Neben den projektgebundenen Ausgaben versuchen wir die Fixkosten relativ niedrig zu halten. Derzeit bestehen diese aus der Miete und Unterhalt für das Berliner Büro sowie Serverkosten.
+ Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Wir beschäftigen zur Zeit Personen im Umfang von ca.</summary>
+  </entry>
+  
+</feed>

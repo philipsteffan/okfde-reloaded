@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Data on OKF DE</title>
+    <link>https://beta.okfn.de/en/categories/open-data/</link>
+    <description>Recent content in Open Data on OKF DE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="https://beta.okfn.de/en/categories/open-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apps for Europe</title>
+      <link>https://beta.okfn.de/en/projekte/appsforeurope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/appsforeurope/</guid>
+      <description>Apps for Europe was a program intended to showcase the impact of open data in terms of its economic potential. Neelie Kroes, former Vice President of the European Commission and a strong supporter of Apps for Europe, quantifies the value of open data several billion Euros. The Consortium behind Apps for Europe wants to facilitate the exploration of the value of open data by helping entrepreneurs to transform their ideas into successful businesses, that can gain foothold all over Europe.</description>
+    </item>
+    
+    <item>
+      <title>Energyhack</title>
+      <link>https://beta.okfn.de/en/projekte/energyhack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/energyhack/</guid>
+      <description>Energyhack is a hackathon around open energy data. Our energy supply and the ways of generation are manifold. But how is energy distributed and how do we ensure that more information is exchanged between producers&amp;rsquo; devices and consumers? Developers, designers, researchers and innovative thought leaders in the energy industry develop ideas, design hardware and prototypes or program new apps in 24 hours. The data from the Open Data Portal Netzdaten-Berlin was available to the participants as a database.</description>
+    </item>
+    
+    <item>
+      <title>OffeneGesetze.de</title>
+      <link>https://beta.okfn.de/en/projekte/offenegesetze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/offenegesetze/</guid>
+      <description>The Federal Law Gazettes are the central documents of German democracy. To pass a law, it has to be published in the Law Gazette. At OffeneGesetze.de they are now freely accessible for the first time. On the portal we provide the documents free of charge and for free re-use.</description>
+    </item>
+    
+    <item>
+      <title>Offener Haushalt</title>
+      <link>https://beta.okfn.de/en/projekte/offenerhaushalt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/offenerhaushalt/</guid>
+      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, the format is not prescribed, which means that booklets with more than 1000 pages are printed and acidified in the town hall or placed as PDF files on the websites. As a result, an essential aspect of political work remains closed to many.</description>
+    </item>
+    
+  </channel>
+</rss>

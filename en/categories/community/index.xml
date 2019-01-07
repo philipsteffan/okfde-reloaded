@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on OKF DE</title>
+    <link>https://beta.okfn.de/en/categories/community/</link>
+    <description>Recent content in Community on OKF DE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="https://beta.okfn.de/en/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apps and the city</title>
+      <link>https://beta.okfn.de/en/projekte/appsandthecity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/appsandthecity/</guid>
+      <description>&amp;lsquo;Apps and the City&amp;rsquo; was a hackday on local traffic organized by OKF DE together with the local transport provider VBB, the Berlin government and the FH Potsdam. The VBB released GTFS data, opened up their API and provided some geo datasets about entrances to stations. During the event, coders, software experts, and designers used open transport data to create applications intended to non-commercially improve public transport.</description>
+    </item>
+    
+    <item>
+      <title>Code for Germany</title>
+      <link>https://beta.okfn.de/en/projekte/codeforde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/codeforde/</guid>
+      <description>Code For Germany &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Energyhack</title>
+      <link>https://beta.okfn.de/en/projekte/energyhack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/energyhack/</guid>
+      <description>Energyhack is a hackathon around open energy data. Our energy supply and the ways of generation are manifold. But how is energy distributed and how do we ensure that more information is exchanged between producers&amp;rsquo; devices and consumers? Developers, designers, researchers and innovative thought leaders in the energy industry develop ideas, design hardware and prototypes or program new apps in 24 hours. The data from the Open Data Portal Netzdaten-Berlin was available to the participants as a database.</description>
+    </item>
+    
+    <item>
+      <title>Jugend hackt</title>
+      <link>https://beta.okfn.de/en/projekte/jugendhackt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/jugendhackt/</guid>
+      <description>Jugend hackt is a program designed to support young coders.
+While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht’ (Science) have been established in Germany for decades, there are few intiatives directed towards young talent in the field of software development. To fill this gap, Open Knowledge Foundation Deutschland e.V., together with the media education agency, Mediale Pfade, organized the first Jugend hackt event in 2013. Since then, it has become a successful and well-established hackathon for young coders from all over Germany.</description>
+    </item>
+    
+  </channel>
+</rss>

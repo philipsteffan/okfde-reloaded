@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civic Tech on OKF DE</title>
+    <link>https://beta.okfn.de/en/categories/civic-tech/</link>
+    <description>Recent content in Civic Tech on OKF DE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="https://beta.okfn.de/en/categories/civic-tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bundesgit</title>
+      <link>https://beta.okfn.de/en/projekte/bundesgit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/bundesgit/</guid>
+      <description>This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. Hereby, their historic development and adaptation is transparent and easily comprehensible.</description>
+    </item>
+    
+    <item>
+      <title>Offener Haushalt</title>
+      <link>https://beta.okfn.de/en/projekte/offenerhaushalt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/offenerhaushalt/</guid>
+      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, the format is not prescribed, which means that booklets with more than 1000 pages are printed and acidified in the town hall or placed as PDF files on the websites. As a result, an essential aspect of political work remains closed to many.</description>
+    </item>
+    
+    <item>
+      <title>Prototype Fund</title>
+      <link>https://beta.okfn.de/en/projekte/prototypefund/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/prototypefund/</guid>
+      <description>With the Prototype Fund we support socially relevant software projects and increase their sustainable impact through open source as a matter of principle. In short: We support Public Interest Tech. We make digital-social innovation possible; with developer groups that bring a wide range of skills to bear in technology design and pass on their good ideas. With up to 47,500 euros per project and team, the funding fund supports software developers, hackers and creative people in implementing sketches for tools and applications in the areas of Civic Tech, data literacy, IT security and software infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>https.jetzt</title>
+      <link>https://beta.okfn.de/en/projekte/httpsjetzt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/httpsjetzt/</guid>
+      <description>https.jetzt! is a project to show how many government websites support HTTPS. Why is website encryption important? Any unencrypted transmission of data can be intercepted on the Internet and thus manipulated. Therefore, it is obvious that any transmission of sensitive data, such as orders in online shops, online banking or logins to websites with non-public content, should only be encrypted. For the user this means: If in doubt, for example when using online order forms, you should always check in the address bar whether an encrypted transmission is displayed there.</description>
+    </item>
+    
+    <item>
+      <title>kleineAnfragen</title>
+      <link>https://beta.okfn.de/en/projekte/kleineanfragen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/en/projekte/kleineanfragen/</guid>
+      <description>The right to ask questions is an important right of MEPs - and a frequently used parliamentary control instrument. In the Bundestag alone, thousands of small questions are put per parliamentary term, which must be answered in writing by the government. If you add the questions in the parliaments of the Länder, this is a huge pool of useful information, scattered throughout the various online archives. On kleineanfragen.de we collect and bundle these documents and make them - as a contribution to transparency and participation - more easily accessible for the public.</description>
+    </item>
+    
+  </channel>
+</rss>

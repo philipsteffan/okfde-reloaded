@@ -1,0 +1,57 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Our Projects on OKF DE</title>
+  <link rel="self" href="https://beta.okfn.de/en/projektfilter/"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>YOUR NAME HERE</name>
+    <email>YOUR EMAIL ADDRESS</email>
+    <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
+  </author>
+  <id>https://beta.okfn.de/en/projektfilter/</id>
+  
+  <entry>
+    <title>Civic Tech</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projektfilter/civic_tech/"/>
+    <id>https://beta.okfn.de/en/projektfilter/civic_tech/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Something with Civic Tech</summary>
+  </entry>
+  
+  <entry>
+    <title>Community</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projektfilter/community/"/>
+    <id>https://beta.okfn.de/en/projektfilter/community/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>something with Community</summary>
+  </entry>
+  
+  <entry>
+    <title>Education</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projektfilter/bildung/"/>
+    <id>https://beta.okfn.de/en/projektfilter/bildung/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Something with education</summary>
+  </entry>
+  
+  <entry>
+    <title>Open Data</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projektfilter/open_data/"/>
+    <id>https://beta.okfn.de/en/projektfilter/open_data/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Something with open data</summary>
+  </entry>
+  
+  <entry>
+    <title>Open Government</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projektfilter/offenes_regierungshandeln/"/>
+    <id>https://beta.okfn.de/en/projektfilter/offenes_regierungshandeln/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Something with Open Gov</summary>
+  </entry>
+  
+</feed>

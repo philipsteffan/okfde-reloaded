@@ -1,0 +1,57 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Topics on OKF DE</title>
+  <link rel="self" href="https://beta.okfn.de/en/themen/"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>YOUR NAME HERE</name>
+    <email>YOUR EMAIL ADDRESS</email>
+    <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
+  </author>
+  <id>https://beta.okfn.de/en/themen/</id>
+  
+  <entry>
+    <title>Open Data</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/themen/open_data/"/>
+    <id>https://beta.okfn.de/en/themen/open_data/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Something with open data</summary>
+  </entry>
+  
+  <entry>
+    <title>Civic Tech</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/themen/civic_tech/"/>
+    <id>https://beta.okfn.de/en/themen/civic_tech/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Something with Civic Tech</summary>
+  </entry>
+  
+  <entry>
+    <title>Open Government</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/themen/offenes_regierungshandeln/"/>
+    <id>https://beta.okfn.de/en/themen/offenes_regierungshandeln/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Something with Open Gov</summary>
+  </entry>
+  
+  <entry>
+    <title>Open Education</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/themen/bildung/"/>
+    <id>https://beta.okfn.de/en/themen/bildung/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Something with open education</summary>
+  </entry>
+  
+  <entry>
+    <title>Freedom of Information</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/themen/informationsfreiheit/"/>
+    <id>https://beta.okfn.de/en/themen/informationsfreiheit/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary></summary>
+  </entry>
+  
+</feed>

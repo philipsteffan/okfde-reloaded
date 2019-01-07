@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on OKF</title>
+    <link>https://beta.okfn.de/categories/community/</link>
+    <description>Recent content in Community on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="https://beta.okfn.de/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apps and the city</title>
+      <link>https://beta.okfn.de/projekte/appsandthecity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/appsandthecity/</guid>
+      <description>Unter dem Namen &amp;ldquo;Apps and the City&amp;rdquo; hat die OKF Deutschland gemeinsam mit den Berliner Verkehrsbetrieben (BVG) und dem Verkehrsverbund Berlin-Brandenburg (VBB) zu einem Entwicklertag zum Thema Nahverkehr eingeladen. An diesem Tag erarbeiteten Entwicklerinnen und Softwareexperten sowie Designerinnen und Designer gemeinnützig sinnvolle Anwendungen für die Fahrgäste mit den offenen Datensätzen der Verkehrsbetriebe.</description>
+    </item>
+    
+    <item>
+      <title>Code for Germany</title>
+      <link>https://beta.okfn.de/projekte/codeforde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/codeforde/</guid>
+      <description>Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger (Labs), die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.</description>
+    </item>
+    
+    <item>
+      <title>Energyhack</title>
+      <link>https://beta.okfn.de/projekte/energyhack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/energyhack/</guid>
+      <description>Der Energyhack ist ein Hackathon rund um offene Energiedaten. Unser Energieangebot und die Wege der Erzeugung sind vielfältig. Doch wie wird Energie verteilt und wie schaffen wir es, dass mehr Informationen zwischen Geräten der Erzeuger und Verbraucher ausgetauscht werden?
+Entwicklerinnen, Designer, Forscherinnen und innovative Vordenker der Energiebranche entwickeln in 24h Ideen, entwerfen Hardware und Prototypen oder programmieren neue Apps. Als Datenbasis standen den Teilnehmerinnen die Daten aus dem Open Data Portal Netzdaten-Berlin zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>FragDenStaat</title>
+      <link>https://beta.okfn.de/projekte/fragdenstaat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/fragdenstaat/</guid>
+      <description>In einer Demokratie ist es notwendig, dass sich Bürgerinnen frei über Regierungshandeln informieren können. Mit dem Informationsfreiheitsgesetz hat jede Person unabhängig von Alter oder Herkunft das Recht, Dokumente bei Behörden anzufragen. Mit der Online-Plattform FragDenStaat unterstützen wir Bürgerinnen dabei, ihr Recht auf Zugang zu Informationen von deutschen Behörden wahrzunehmen. Bürgerinnen müssen sich nicht mehr durch den Gesetzesdschungel der Bundesländer und dem Bund arbeiten, um eine Anfrage zu stellen. Anfragen und Antworten erscheinen transparent online.</description>
+    </item>
+    
+    <item>
+      <title>edulabs</title>
+      <link>https://beta.okfn.de/projekte/edulabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beta.okfn.de/projekte/edulabs/</guid>
+      <description>edulabs versteht sich als überregionaler Inkubator, in dem Menschen ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare Bildungsmaterialien zu entwickeln. Dabei arbeitet das Projekt auf drei Ebenen: Konzeptentwicklung, Bereitstellung und Bewerbung von freien Bildungsmaterialien sowie Community Building und Support. Deutschlandweit organisiert edulabs Treffen von interdisziplinären Teams, bei denen freie Bildungsmaterialien (OER) und digital gestützte Methoden evaluiert, erstellt, dokumentiert und verbessert werden. Die Lab-Community wird redaktionell, didaktisch, technisch, sowie bei der Organisation von Events unterstützt.</description>
+    </item>
+    
+  </channel>
+</rss>
