@@ -21,6 +21,20 @@
   </url>
   
   <url>
+    <loc>https://beta.okfn.de/projekte/ogp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/projekte/ogp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/projekte/ogp/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/profil/potential/</loc>
     <xhtml:link
                 rel="alternate"
@@ -49,6 +63,20 @@
   </url>
   
   <url>
+    <loc>https://beta.okfn.de/projekte/codeforde/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/projekte/codeforde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/projekte/codeforde/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/finanzierung/einnahmen/</loc>
   </url>
   
@@ -68,20 +96,6 @@
   
   <url>
     <loc>https://beta.okfn.de/finanzierung/ausgaben/</loc>
-  </url>
-  
-  <url>
-    <loc>https://beta.okfn.de/projekte/demokratielabore/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/projekte/demokratielabore/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/projekte/demokratielabore/"
-                />
   </url>
   
   <url>
@@ -141,20 +155,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/projekte/ogp/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/projekte/ogp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/projekte/ogp/"
-                />
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/projekte/prototypefund/</loc>
     <xhtml:link
                 rel="alternate"
@@ -169,16 +169,16 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/projekte/codeforde/</loc>
+    <loc>https://beta.okfn.de/projekte/demokratielabore/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://beta.okfn.de/en/projekte/codeforde/"
+                href="https://beta.okfn.de/en/projekte/demokratielabore/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://beta.okfn.de/projekte/codeforde/"
+                href="https://beta.okfn.de/projekte/demokratielabore/"
                 />
   </url>
   
@@ -2550,12 +2550,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/tags/</loc>
-    <lastmod>2015-11-02T22:14:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -2568,6 +2562,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/</loc>
+    <lastmod>2015-11-02T22:14:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2905,12 +2905,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/tags/civic-tech/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/categories/civic-tech/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -2923,6 +2917,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/categories/civic-tech/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/civic-tech/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3011,12 +3011,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/tags/community/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/categories/community/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3029,6 +3023,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/categories/community/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/community/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -4313,12 +4313,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/tags/open-data/</loc>
-    <lastmod>2018-10-18T06:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/categories/open-data/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4331,6 +4325,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/categories/open-data/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/open-data/</loc>
+    <lastmod>2018-10-18T06:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -4414,12 +4414,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/tags/open-government/</loc>
-    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/categories/open-government/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4432,6 +4426,12 @@
                 hreflang="de"
                 href="https://beta.okfn.de/categories/open-government/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/tags/open-government/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

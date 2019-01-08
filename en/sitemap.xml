@@ -31,6 +31,20 @@
   </url>
   
   <url>
+    <loc>https://beta.okfn.de/en/projekte/ogp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/projekte/ogp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/projekte/ogp/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/en/themen/civic_tech/</loc>
     <xhtml:link
                 rel="alternate"
@@ -87,6 +101,34 @@
   </url>
   
   <url>
+    <loc>https://beta.okfn.de/en/projekte/codeforde/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/projekte/codeforde/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/projekte/codeforde/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/en/projekte/fragdenstaat/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/projekte/fragdenstaat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/projekte/fragdenstaat/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/en/themen/bildung/</loc>
     <xhtml:link
                 rel="alternate"
@@ -97,6 +139,34 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://beta.okfn.de/en/themen/bildung/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/en/projekte/prototypefund/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/projekte/prototypefund/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/projekte/prototypefund/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/en/projekte/demokratielabore/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/projekte/demokratielabore/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/projekte/demokratielabore/"
                 />
   </url>
   
@@ -125,6 +195,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://beta.okfn.de/en/profil/muendigkeit/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/en/projekte/jugendhackt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/projekte/jugendhackt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/projekte/jugendhackt/"
                 />
   </url>
   
@@ -287,20 +371,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/en/projekte/codeforde/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/projekte/codeforde/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/projekte/codeforde/"
-                />
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/en/projekte/codingdavinci/</loc>
     <xhtml:link
                 rel="alternate"
@@ -396,20 +466,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://beta.okfn.de/en/projekte/datenschule/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://beta.okfn.de/en/projekte/demokratielabore/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/projekte/demokratielabore/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/projekte/demokratielabore/"
                 />
   </url>
   
@@ -541,20 +597,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/en/projekte/fragdenstaat/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/projekte/fragdenstaat/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/projekte/fragdenstaat/"
-                />
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/en/projekte/frankfurtgestalten/</loc>
     <xhtml:link
                 rel="alternate"
@@ -593,20 +635,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://beta.okfn.de/en/jobs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://beta.okfn.de/en/projekte/jugendhackt/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/projekte/jugendhackt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/projekte/jugendhackt/"
                 />
   </url>
   
@@ -753,20 +781,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/en/projekte/ogp/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/projekte/ogp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/projekte/ogp/"
-                />
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/en/categories/open-government/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -891,20 +905,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://beta.okfn.de/en/projekte/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://beta.okfn.de/en/projekte/prototypefund/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/projekte/prototypefund/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/projekte/prototypefund/"
                 />
   </url>
   

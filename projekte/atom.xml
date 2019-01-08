@@ -10,13 +10,22 @@
   <id>https://beta.okfn.de/projekte/</id>
   
   <entry>
-    <title>Demokratielabore</title>
-    <link rel="alternate" href="https://beta.okfn.de/projekte/demokratielabore/"/>
-    <id>https://beta.okfn.de/projekte/demokratielabore/</id>
+    <title>Open Gov Netzwerk</title>
+    <link rel="alternate" href="https://beta.okfn.de/projekte/ogp/"/>
+    <id>https://beta.okfn.de/projekte/ogp/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Wie können wir Kinder und Jugendliche heute befähigen, zu Gestaltenden unserer Gesellschaft von morgen zu werden? Was macht Jugendliche als Akteurinnen sichtbarer? Welche Rolle spielen hierbei digitale Mittel? Und wie gelingt Teilhabe auf digitaler und sozialer Ebene?
-Um diese und andere Fragen zu beantworten, haben wir mit den Demokratielaboren verschiedene Workshopformate und Materialien entwickelt, um einer breiten Zielgruppe von Kindern und Jugendlichen zu Selbstwirksamkeitserfahrungen im Bereich von Demokratie und Technologie zu verhelfen.</summary>
+    <summary>Als Teil des Open Government Netzwerks setzen wir uns für die aktive Mitwirkung Deutschlands in der Open Government Partnership (OGP) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk.
+Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen und Einzelpersonen, der sich seit 2011 für die Förderung eines offenen Regierungs- und Verwaltungshandelns als ganzheitlichem Ansatz zur Stärkung der Demokratie einsetzt. Dabei liegt der Fokus insbesondere auf dem Austausch mit der Bundesregierung sowie der Entwicklung der nationalen Aktionspläne.</summary>
+  </entry>
+  
+  <entry>
+    <title>Code for Germany</title>
+    <link rel="alternate" href="https://beta.okfn.de/projekte/codeforde/"/>
+    <id>https://beta.okfn.de/projekte/codeforde/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger (Labs), die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.</summary>
   </entry>
   
   <entry>
@@ -29,16 +38,6 @@ Um diese und andere Fragen zu beantworten, haben wir mit den Demokratielaboren v
   </entry>
   
   <entry>
-    <title>Open Gov Netzwerk</title>
-    <link rel="alternate" href="https://beta.okfn.de/projekte/ogp/"/>
-    <id>https://beta.okfn.de/projekte/ogp/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Als Teil des Open Government Netzwerks setzen wir uns für die aktive Mitwirkung Deutschlands in der Open Government Partnership (OGP) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk.
-Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen und Einzelpersonen, der sich seit 2011 für die Förderung eines offenen Regierungs- und Verwaltungshandelns als ganzheitlichem Ansatz zur Stärkung der Demokratie einsetzt. Dabei liegt der Fokus insbesondere auf dem Austausch mit der Bundesregierung sowie der Entwicklung der nationalen Aktionspläne.</summary>
-  </entry>
-  
-  <entry>
     <title>Prototype Fund</title>
     <link rel="alternate" href="https://beta.okfn.de/projekte/prototypefund/"/>
     <id>https://beta.okfn.de/projekte/prototypefund/</id>
@@ -48,12 +47,13 @@ Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen 
   </entry>
   
   <entry>
-    <title>Code for Germany</title>
-    <link rel="alternate" href="https://beta.okfn.de/projekte/codeforde/"/>
-    <id>https://beta.okfn.de/projekte/codeforde/</id>
+    <title>Demokratielabore</title>
+    <link rel="alternate" href="https://beta.okfn.de/projekte/demokratielabore/"/>
+    <id>https://beta.okfn.de/projekte/demokratielabore/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger (Labs), die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.</summary>
+    <summary>Wie können wir Kinder und Jugendliche heute befähigen, zu Gestaltenden unserer Gesellschaft von morgen zu werden? Was macht Jugendliche als Akteurinnen sichtbarer? Welche Rolle spielen hierbei digitale Mittel? Und wie gelingt Teilhabe auf digitaler und sozialer Ebene?
+Um diese und andere Fragen zu beantworten, haben wir mit den Demokratielaboren verschiedene Workshopformate und Materialien entwickelt, um einer breiten Zielgruppe von Kindern und Jugendlichen zu Selbstwirksamkeitserfahrungen im Bereich von Demokratie und Technologie zu verhelfen.</summary>
   </entry>
   
   <entry>

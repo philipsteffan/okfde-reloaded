@@ -10,6 +10,62 @@
   <id>https://beta.okfn.de/en/projekte/</id>
   
   <entry>
+    <title>Open Gov Netzwerk</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projekte/ogp/"/>
+    <id>https://beta.okfn.de/en/projekte/ogp/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>As part of the Open Government Network, we support Germany&amp;rsquo;s active participation in the Open Government Partnership (OGP) and the interests of German civil society in this process and coordinate the civil society network.
+The network is an association of civil society organisations and individuals that has been working since 2011 to promote open government and administrative action as a holistic approach to strengthening democracy. In particular, the focus is on the exchange with the Federal Government and the development of national action plans.</summary>
+  </entry>
+  
+  <entry>
+    <title>Code for Germany</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projekte/codeforde/"/>
+    <id>https://beta.okfn.de/en/projekte/codeforde/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Code For Germany is a network of groups of volunteer volunteers (Labs) who use their skills to positively shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics and use their skills to improve communication between them and to provide the necessary impetus so that as many people as possible can benefit from the possibilities of open and free digitisation.</summary>
+  </entry>
+  
+  <entry>
+    <title>FragDenStaat</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projekte/fragdenstaat/"/>
+    <id>https://beta.okfn.de/en/projekte/fragdenstaat/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>In a democracy, it is necessary for citizens to be able to inform themselves freely about government actions. With the Freedom of Information Act, every person, regardless of age or origin, has the right to request documents from the authorities. With the FragDenStaat online platform, we support citizens in exercising their right to access information from German authorities. Citizens no longer have to work their way through the legal jungle of the federal states and the federal government to make a request.</summary>
+  </entry>
+  
+  <entry>
+    <title>Prototype Fund</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projekte/prototypefund/"/>
+    <id>https://beta.okfn.de/en/projekte/prototypefund/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>With the Prototype Fund we support socially relevant software projects and increase their sustainable impact through open source as a matter of principle. In short: We support Public Interest Tech. We make digital-social innovation possible; with developer groups that bring a wide range of skills to bear in technology design and pass on their good ideas. With up to 47,500 euros per project and team, the funding fund supports software developers, hackers and creative people in implementing sketches for tools and applications in the areas of Civic Tech, data literacy, IT security and software infrastructure.</summary>
+  </entry>
+  
+  <entry>
+    <title>Demokratielabore</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projekte/demokratielabore/"/>
+    <id>https://beta.okfn.de/en/projekte/demokratielabore/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>The &amp;ldquo;Demokratielabore&amp;rdquo; or Democracy Labs is a pilot project for adolescents between the age of 12 and 21. We aim to foster self-efficacy and empower young people by using technology for democracy. We strive to let children and young adults experience their own digital skills as a powerful tool to get involed in a democratic society as active and self-determined members. To reach that goal we organize workshops, establish working groups and run an online tv channel.</summary>
+  </entry>
+  
+  <entry>
+    <title>Jugend hackt</title>
+    <link rel="alternate" href="https://beta.okfn.de/en/projekte/jugendhackt/"/>
+    <id>https://beta.okfn.de/en/projekte/jugendhackt/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Jugend hackt is a program designed to support young coders.
+While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht’ (Science) have been established in Germany for decades, there are few intiatives directed towards young talent in the field of software development. To fill this gap, Open Knowledge Foundation Deutschland e.V., together with the media education agency, Mediale Pfade, organized the first Jugend hackt event in 2013. Since then, it has become a successful and well-established hackathon for young coders from all over Germany.</summary>
+  </entry>
+  
+  <entry>
     <title>Zugang gestalten</title>
     <link rel="alternate" href="https://beta.okfn.de/en/projekte/zuganggestalten/"/>
     <id>https://beta.okfn.de/en/projekte/zuganggestalten/</id>
@@ -65,15 +121,6 @@
   </entry>
   
   <entry>
-    <title>Code for Germany</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/projekte/codeforde/"/>
-    <id>https://beta.okfn.de/en/projekte/codeforde/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Code For Germany is a network of groups of volunteer volunteers (Labs) who use their skills to positively shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics and use their skills to improve communication between them and to provide the necessary impetus so that as many people as possible can benefit from the possibilities of open and free digitisation.</summary>
-  </entry>
-  
-  <entry>
     <title>Coding da Vinci</title>
     <link rel="alternate" href="https://beta.okfn.de/en/projekte/codingdavinci/"/>
     <id>https://beta.okfn.de/en/projekte/codingdavinci/</id>
@@ -100,54 +147,6 @@ The initiative, which was founded in 2003 as part of the 2002 Sustainability Sum
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>DARIAH-DE supports digitally-enabled research and teaching in the arts and humanities. For this purpose, the project is developing a research infrastructure in support of service and research data as well as materials for research and teaching in the Digital Humanities. DARIAH-DE is the german national contribution to the European research infrastructure &amp;ldquo;DARIAH-EU - Digital Research Infrastructure for the Arts and Humanities&amp;rdquo; within the framework of ESFRI.
 As a project partner, we support DARIAH-DE with the communication and dissemination of the allignment, content, and results of the digital humanities.</summary>
-  </entry>
-  
-  <entry>
-    <title>Daten machen Schule</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/projekte/datenmachenschule/"/>
-    <id>https://beta.okfn.de/en/projekte/datenmachenschule/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>DatenmachenSchule is a place where the potential of using open data in the classroom is illustrated. Based on the pioneering work of the Rhein-Waal University of Applied Sciences, the Adolfinum Grammar School, the City of Moers and the Lower Rhine University of Applied Sciences OK-Lab, information and resources have been compiled that will enable teachers and schools to use applications based on open data. The OffenerHaushalt. de tool has been technically and structurally redesigned to visualize data on tax expenditure and thus make it clear and tangible.</summary>
-  </entry>
-  
-  <entry>
-    <title>Datenschule</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/projekte/datenschule/"/>
-    <id>https://beta.okfn.de/en/projekte/datenschule/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Energy data, environmental data, traffic data. More and more data is available to us today. We believe that the goal-oriented usage of relevant datasets could help nonprofit organizations to more effectively achieve their social objectives. However, only a few organizations have the required skills to work with data.
-The Open Knowledge Foundation Germany has developed a data training program, covering everything from the finding, analyzing and visualizing of data to the design of data-driven campaigns.</summary>
-  </entry>
-  
-  <entry>
-    <title>Demokratielabore</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/projekte/demokratielabore/"/>
-    <id>https://beta.okfn.de/en/projekte/demokratielabore/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>The &amp;ldquo;Demokratielabore&amp;rdquo; or Democracy Labs is a pilot project for adolescents between the age of 12 and 21. We aim to foster self-efficacy and empower young people by using technology for democracy. We strive to let children and young adults experience their own digital skills as a powerful tool to get involed in a democratic society as active and self-determined members. To reach that goal we organize workshops, establish working groups and run an online tv channel.</summary>
-  </entry>
-  
-  <entry>
-    <title>Digiwhist</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/projekte/digiwhist/"/>
-    <id>https://beta.okfn.de/en/projekte/digiwhist/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed.
-The allocation of funds through public procurement (services, bulding contracts, and goods) represents a significant share of state expenditure. In the EU, this amounts to about 16% of the GDP. In many cases, the allocation of these contracts is not conducted transparently. As a result, 20-25% of the total number of orders can be lost to corruption.
-In order to change this, we are working together with 5 partners on the EU project, DIGIWHIST.</summary>
-  </entry>
-  
-  <entry>
-    <title>Energyhack</title>
-    <link rel="alternate" href="https://beta.okfn.de/en/projekte/energyhack/"/>
-    <id>https://beta.okfn.de/en/projekte/energyhack/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Energyhack is a hackathon around open energy data. Our energy supply and the ways of generation are manifold. But how is energy distributed and how do we ensure that more information is exchanged between producers&amp;rsquo; devices and consumers? Developers, designers, researchers and innovative thought leaders in the energy industry develop ideas, design hardware and prototypes or program new apps in 24 hours. The data from the Open Data Portal Netzdaten-Berlin was available to the participants as a database.</summary>
   </entry>
   
 </feed>

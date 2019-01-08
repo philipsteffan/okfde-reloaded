@@ -38,6 +38,24 @@
  
    ,
      {
+       "url": "https://beta.okfn.de/projekte/ogp/",
+       "title": "Open Gov Netzwerk",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/OGP_Projektuebersicht_smallTile.jpg",
+       
+       "content": ["Als","Teil","des","Open","Government","Netzwerks","setzen","wir","uns","für","die","aktive","Mitwirkung","Deutschlands","in","der","Open","Government","Partnership","(OGP)","und","die","Interessen","der","deutschen","Zivilgesellschaft","in","diesem","Prozess","ein","und","koordinieren","das","zivilgesellschaftliche","Netzwerk.","Das","Netzwerk","ist","ein","Zusammenschluss","von","zivilgesellschaftlichen","Organisationen","und","Einzelpersonen,","der","sich","seit","2011","für","die","Förderung","eines","offenen","Regierungs-","und","Verwaltungshandelns","als","ganzheitlichem","Ansatz","zur","Stärkung","der","Demokratie","einsetzt.","Dabei","liegt","der","Fokus","insbesondere","auf","dem","Austausch","mit","der","Bundesregierung","sowie","der","Entwicklung","der","nationalen","Aktionspläne.","Das","Netzwerk","ermöglicht","Bürgerinnen","sich","an","der","Entwicklung","und","Umsetzung","ehrgeiziger","Open","Government","Reformen","zu","beteiligen","und","den","Dialog","zu","erweitern.","Dabei","verbinden","wir","die","Expertise","unserer","Mitglieder","und","stärken","den","Kompetenzaufbau","in","der","Zivilgesellschaft.","Uns","verbindet","die","Überzeugung,","dass","eine","aktive","Teilnahme","der","Bundesrepublik","Deutschland","an","der","Open","Government","Partnership","einen","Kulturwandel","zu","mehr","Transparenz,","Beteiligung","und","Rechenschaftslegung","fördert","und","damit","eine","Belebung","und","Stärkung","der","Demokratie","und","der","Qualität","des","staatlichen","Handelns","erzeugt."]
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ,
+     {
        "url": "https://beta.okfn.de/profil/potential/",
        "title": "Wir zeigen das demokratische Potenzial von Technologie",
        "section": "profil",
@@ -64,6 +82,24 @@
        "img": "/okf/themen/civictech.png",
        
        "content": []
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ,
+     {
+       "url": "https://beta.okfn.de/projekte/codeforde/",
+       "title": "Code for Germany",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/codefor_BigTile.gif",
+       
+       "content": ["Code","For","Germany","ist","ein","Netzwerk","von","Gruppen","ehrenamtlich","engagierter","Freiwilliger","(Labs),","die","ihre","Fähigkeiten","nutzen,","um","ihre","Städte","und","das","gesellschaftliche","Miteinander","positiv","zu","gestalten.","Sie","setzen","sich","für","mehr","Transparenz,","Offene","Daten","und","Partizipation","in","ihren","Städten","ein.","Sie","vermitteln","insbesondere","zwischen","Zivilgesellschaft,","Verwaltung","und","Politik","und","nutzen","ihre","Fähigkeiten,","um","die","Kommunikation","zwischen","diesen","zu","verbessern","und","notwendige","Impulse","zu","setzen,","damit","die","Möglichkeiten","der","offenen","und","freien","Digitalisierung","so","vielen","Menschen","wie","möglich","zugute","kommen.","Einige","Städte","haben","bereits","Open","Data","Programme","und","stellen","Datensätze","offen","zur","Verfügung,","vielerorts","mangelt","es","jedoch","noch","an","Anwendungen","und","Beispielen,","die","den","praktischen","Nutzen","von","offenen","Daten","aufzeigen","–","genau","hier","setzt","Code","for","Germany","an.","Neben","Software","Projekten","wird","auch","an","„Do","it","yourself“","Hardware","Projekten","gearbeitet","wie","dem","Netzwerk","an","Feinstaubsensoren","oder","dem","Long","Range","Wide","Area","Network","(LoRaWan).","Gestartet","wurde","das","Programm","im","Februar","2014","mit","der","Gründung","von","Open","Knowledge","Labs","in","8","Städten.","Mittlerweile","ist","das","Netzwerk","auf","26","Labs","angewachsen","und","umfasst","eine","Community","von","über","500","Freiwilligen."]
      }
  
  
@@ -114,24 +150,6 @@
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
        "content": ["Der","größte","Teil","der","finanziellen","Zuwendungen","und","Umsätze","ist","Zweckgebunden","für","die","Durchführung","von","Projekten","und","die","Organisation","von","Veranstaltungen.","Neben","den","projektgebundenen","Ausgaben","versuchen","wir","die","Fixkosten","relativ","niedrig","zu","halten.","Derzeit","bestehen","diese","aus","der","Miete","und","Unterhalt","für","das","Berliner","Büro","sowie","Serverkosten.","Der","größte","Posten","bei","den","Ausgaben","waren","Aufwendungen","für","die","Organisation","und","Durchführung","von","Projekten","und","Veranstaltungen","sowie","Gehälter","und","Honorare.","Wir","beschäftigen","zur","Zeit","Personen","im","Umfang","von","ca.","18,5","Vollzeitäquivalenten."]
-     }
- 
- 
- 
- 
- 
- 
- 
-   ,
-     {
-       "url": "https://beta.okfn.de/projekte/demokratielabore/",
-       "title": "Demokratielabore",
-       "section": "projekte",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "img": "projects/Demokratielabore_Projektuebersicht_bigTile.png",
-       
-       "content": ["Wie","können","wir","Kinder","und","Jugendliche","heute","befähigen,","zu","Gestaltenden","unserer","Gesellschaft","von","morgen","zu","werden?","Was","macht","Jugendliche","als","Akteurinnen","sichtbarer?","Welche","Rolle","spielen","hierbei","digitale","Mittel?","Und","wie","gelingt","Teilhabe","auf","digitaler","und","sozialer","Ebene?","Um","diese","und","andere","Fragen","zu","beantworten,","haben","wir","mit","den","Demokratielaboren","verschiedene","Workshopformate","und","Materialien","entwickelt,","um","einer","breiten","Zielgruppe","von","Kindern","und","Jugendlichen","zu","Selbstwirksamkeitserfahrungen","im","Bereich","von","Demokratie","und","Technologie","zu","verhelfen.","Die","Formate","sind","für","unterschiedliche","Zielgruppen","der","außerschulischen","Jugendbildung","konzipiert.","Einerseits","ermöglichen","sie","Workshopleitenden","die","Vermittlung","von","Themen","wie","Cybermobbing,","Fake","News,","Populismus,","Stadtgestaltung,","Datenschutz,","Influencing,","Diversität","und","Meinungsäußerung.","Andererseits","wurden","Selbstlernmaterialien","entwickelt,","mit","deren","Hilfe","Jugendliche","sich","eigenständig","gesellschaftliche","Themen","und","digitale","Tools","erarbeiten","können,","um","eigene","Projekte","umzusetzen.","Zusätzlich","haben","wir","mit","der","Datenschule","Fachkräfte-Schulungen","durchgeführt,","um","die","Chancen","der","Digitalisierung","auch","in","der","alltäglichen","außerschulischen","Jugendarbeit","nutzbar","zu","machen.","Hintergrund","Die","Lebens-","und","Erfahrungswelt","von","Jugendlichen","in","Deutschland","hat","sich","innerhalb","einer","Generation","vollkommen","gewandelt:","Die","digitale","Revolution","umfasst","alle","Bereiche","des","öffentlichen","und","privaten","Lebens,","prägt","unsere","Beziehungen","und","das","Zusammenleben","in","unserer","Gesellschaft.","Obwohl","die","Verbreitung","moderner","Technologien","und","ihre","konsumorientierte","Nutzung","zur","Kommunikation,","Information","und","Unterhaltung","bereits","weit","vorangeschritten","ist,","hinkt","die","gesellschaftliche","Gestaltung","der","Technisierung","hinterher.","Es","ist","deshalb","unser","Ziel,","das","Internet","als","positiven","Gestaltungsraum","zurückzuerobern","und","Selbstwirksamkeitserfahrungen","für","Jugendliche","in","der","Auseinandersetzung","mit","Digitalität","sowie","demokratischen","Strukturen","und","Prozessen","erlebbar","zu","machen."]
      }
  
  
@@ -214,24 +232,6 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/ogp/",
-       "title": "Open Gov Netzwerk",
-       "section": "projekte",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "img": "projects/OGP_Projektuebersicht_smallTile.jpg",
-       
-       "content": ["Als","Teil","des","Open","Government","Netzwerks","setzen","wir","uns","für","die","aktive","Mitwirkung","Deutschlands","in","der","Open","Government","Partnership","(OGP)","und","die","Interessen","der","deutschen","Zivilgesellschaft","in","diesem","Prozess","ein","und","koordinieren","das","zivilgesellschaftliche","Netzwerk.","Das","Netzwerk","ist","ein","Zusammenschluss","von","zivilgesellschaftlichen","Organisationen","und","Einzelpersonen,","der","sich","seit","2011","für","die","Förderung","eines","offenen","Regierungs-","und","Verwaltungshandelns","als","ganzheitlichem","Ansatz","zur","Stärkung","der","Demokratie","einsetzt.","Dabei","liegt","der","Fokus","insbesondere","auf","dem","Austausch","mit","der","Bundesregierung","sowie","der","Entwicklung","der","nationalen","Aktionspläne.","Das","Netzwerk","ermöglicht","Bürgerinnen","sich","an","der","Entwicklung","und","Umsetzung","ehrgeiziger","Open","Government","Reformen","zu","beteiligen","und","den","Dialog","zu","erweitern.","Dabei","verbinden","wir","die","Expertise","unserer","Mitglieder","und","stärken","den","Kompetenzaufbau","in","der","Zivilgesellschaft.","Uns","verbindet","die","Überzeugung,","dass","eine","aktive","Teilnahme","der","Bundesrepublik","Deutschland","an","der","Open","Government","Partnership","einen","Kulturwandel","zu","mehr","Transparenz,","Beteiligung","und","Rechenschaftslegung","fördert","und","damit","eine","Belebung","und","Stärkung","der","Demokratie","und","der","Qualität","des","staatlichen","Handelns","erzeugt."]
-     }
- 
- 
- 
- 
- 
- 
- 
-   ,
-     {
        "url": "https://beta.okfn.de/projekte/prototypefund/",
        "title": "Prototype Fund",
        "section": "projekte",
@@ -250,14 +250,14 @@
  
    ,
      {
-       "url": "https://beta.okfn.de/projekte/codeforde/",
-       "title": "Code for Germany",
+       "url": "https://beta.okfn.de/projekte/demokratielabore/",
+       "title": "Demokratielabore",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "img": "projects/codefor_Projektuebersicht_smallTile.png",
+       "img": "projects/Demokratielabore_Projektuebersicht_bigTile.png",
        
-       "content": ["Code","For","Germany","ist","ein","Netzwerk","von","Gruppen","ehrenamtlich","engagierter","Freiwilliger","(Labs),","die","ihre","Fähigkeiten","nutzen,","um","ihre","Städte","und","das","gesellschaftliche","Miteinander","positiv","zu","gestalten.","Sie","setzen","sich","für","mehr","Transparenz,","Offene","Daten","und","Partizipation","in","ihren","Städten","ein.","Sie","vermitteln","insbesondere","zwischen","Zivilgesellschaft,","Verwaltung","und","Politik","und","nutzen","ihre","Fähigkeiten,","um","die","Kommunikation","zwischen","diesen","zu","verbessern","und","notwendige","Impulse","zu","setzen,","damit","die","Möglichkeiten","der","offenen","und","freien","Digitalisierung","so","vielen","Menschen","wie","möglich","zugute","kommen.","Einige","Städte","haben","bereits","Open","Data","Programme","und","stellen","Datensätze","offen","zur","Verfügung,","vielerorts","mangelt","es","jedoch","noch","an","Anwendungen","und","Beispielen,","die","den","praktischen","Nutzen","von","offenen","Daten","aufzeigen","–","genau","hier","setzt","Code","for","Germany","an.","Neben","Software","Projekten","wird","auch","an","„Do","it","yourself“","Hardware","Projekten","gearbeitet","wie","dem","Netzwerk","an","Feinstaubsensoren","oder","dem","Long","Range","Wide","Area","Network","(LoRaWan).","Gestartet","wurde","das","Programm","im","Februar","2014","mit","der","Gründung","von","Open","Knowledge","Labs","in","8","Städten.","Mittlerweile","ist","das","Netzwerk","auf","26","Labs","angewachsen","und","umfasst","eine","Community","von","über","500","Freiwilligen."]
+       "content": ["Wie","können","wir","Kinder","und","Jugendliche","heute","befähigen,","zu","Gestaltenden","unserer","Gesellschaft","von","morgen","zu","werden?","Was","macht","Jugendliche","als","Akteurinnen","sichtbarer?","Welche","Rolle","spielen","hierbei","digitale","Mittel?","Und","wie","gelingt","Teilhabe","auf","digitaler","und","sozialer","Ebene?","Um","diese","und","andere","Fragen","zu","beantworten,","haben","wir","mit","den","Demokratielaboren","verschiedene","Workshopformate","und","Materialien","entwickelt,","um","einer","breiten","Zielgruppe","von","Kindern","und","Jugendlichen","zu","Selbstwirksamkeitserfahrungen","im","Bereich","von","Demokratie","und","Technologie","zu","verhelfen.","Die","Formate","sind","für","unterschiedliche","Zielgruppen","der","außerschulischen","Jugendbildung","konzipiert.","Einerseits","ermöglichen","sie","Workshopleitenden","die","Vermittlung","von","Themen","wie","Cybermobbing,","Fake","News,","Populismus,","Stadtgestaltung,","Datenschutz,","Influencing,","Diversität","und","Meinungsäußerung.","Andererseits","wurden","Selbstlernmaterialien","entwickelt,","mit","deren","Hilfe","Jugendliche","sich","eigenständig","gesellschaftliche","Themen","und","digitale","Tools","erarbeiten","können,","um","eigene","Projekte","umzusetzen.","Zusätzlich","haben","wir","mit","der","Datenschule","Fachkräfte-Schulungen","durchgeführt,","um","die","Chancen","der","Digitalisierung","auch","in","der","alltäglichen","außerschulischen","Jugendarbeit","nutzbar","zu","machen.","Hintergrund","Die","Lebens-","und","Erfahrungswelt","von","Jugendlichen","in","Deutschland","hat","sich","innerhalb","einer","Generation","vollkommen","gewandelt:","Die","digitale","Revolution","umfasst","alle","Bereiche","des","öffentlichen","und","privaten","Lebens,","prägt","unsere","Beziehungen","und","das","Zusammenleben","in","unserer","Gesellschaft.","Obwohl","die","Verbreitung","moderner","Technologien","und","ihre","konsumorientierte","Nutzung","zur","Kommunikation,","Information","und","Unterhaltung","bereits","weit","vorangeschritten","ist,","hinkt","die","gesellschaftliche","Gestaltung","der","Technisierung","hinterher.","Es","ist","deshalb","unser","Ziel,","das","Internet","als","positiven","Gestaltungsraum","zurückzuerobern","und","Selbstwirksamkeitserfahrungen","für","Jugendliche","in","der","Auseinandersetzung","mit","Digitalität","sowie","demokratischen","Strukturen","und","Prozessen","erlebbar","zu","machen."]
      }
  
  
@@ -7730,8 +7730,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/",
@@ -7741,6 +7739,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
@@ -7777,7 +7777,7 @@
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "img": "projects/dummy_Projektübersicht_smallTile.png",
+       "img": "projects/2030_Projektuebersicht_smallTile.png",
        
        "content": ["2030Watch","überwacht","und","visualisiert","die","Umsetzung","der","nachhaltigen","Entwicklungsziele","in","Deutschland.","Die","Sustainable","Development","Goals","(SDGs)","wurden","im","September","2015","von","den","Vereinten","Nationen","(UN)","verabschiedet","und","sollen","bis","2030","erreicht","werden.","Alle","UN-Mitgliedsstaaten","haben","sich","verpflichtet","diese","17","Ziele","und","169","Unterziele","umzusetzen.","Sie","sollen","zum","Beispiel","die","Armut","abschaffen,","bestehende","Ungleichheiten","in","und","unter","den","Ländern","beseitigen","und","greifen","Themen","auf,","die","uns","alle","angehen,","wie","den","Klimawandel.","2030Watch","nutzt","vor","allem","Daten","von","OECD,","Weltbank","und","anderen","internationalen","Organisationen","und","entwickelt","Vorschläge","zur","Operationalisierung","schwieriger","Ziele","wie","„fairer","Handel“.","Das","Projektbudget","für","2015","ist","55.620","Euro.","73%","des","Budgets","werden","vom","BMZ","getragen.","Die","übrigen","Finanzgeber","sind","Welthungerhilfe","(9%),","Brot","für","die","Welt","/EED","(9%)","und","Terre","des","Hommes","(7%).","Der","Rest","(weniger","als","1%)","sind","Eigenmittel."]
      }
@@ -8024,8 +8024,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/civic-tech/",
@@ -8035,6 +8033,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
@@ -8098,8 +8098,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/community/",
@@ -8109,6 +8107,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
@@ -8982,8 +8982,6 @@
  
  
  
- 
- 
    ,
      {
        "url": "https://beta.okfn.de/categories/open-data/",
@@ -9037,6 +9035,8 @@
        
        "content": []
      }
+ 
+ 
  
  
  
