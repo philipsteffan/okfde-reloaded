@@ -144,6 +144,21 @@
   </url>
   
   <url>
+    <loc>https://beta.okfn.de/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/en/finanzierung/</loc>
     <xhtml:link
                 rel="alternate"

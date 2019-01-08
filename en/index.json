@@ -184,6 +184,22 @@
  
    ,
      {
+       "url": "https://beta.okfn.de/en/categories/",
+       "title": "",
+       "section": "categories",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "content": []
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ,
+     {
        "url": "https://beta.okfn.de/en/finanzierung/",
        "title": "",
        "section": "finanzierung",
@@ -333,7 +349,7 @@
        
        "img": "projects/codefor_Projektuebersicht_smallTile.png",
        
-       "content": ["Code","For","Germany","\u0026hellip;"]
+       "content": ["Code","For","Germany","is","a","network","of","groups","of","volunteer","volunteers","(Labs)","who","use","their","skills","to","positively","shape","their","cities","and","social","life.","They","advocate","more","transparency,","open","data","and","participation","in","their","cities.","In","particular,","they","mediate","between","civil","society,","administration","and","politics","and","use","their","skills","to","improve","communication","between","them","and","to","provide","the","necessary","impetus","so","that","as","many","people","as","possible","can","benefit","from","the","possibilities","of","open","and","free","digitisation.","Some","cities","already","have","Open","Data","programs","and","make","data","sets","available","openly,","but","in","many","places","there","is","still","a","lack","of","applications","and","examples","that","demonstrate","the","practical","use","of","open","data","-","this","is","exactly","where","Code","for","Germany","comes","in.","In","addition","to","software","projects,","\u0026ldquo;Do","it","yourself\u0026rdquo;","hardware","projects","such","as","the","network","of","fine","dust","sensors","or","the","Long","Range","Wide","Area","Network","(LoRaWan)","are","also","being","worked","on.","The","program","started","in","February","2014","with","the","foundation","of","Open","Knowledge","Labs","in","8","cities.","In","the","meantime,","the","network","has","grown","to","26","labs","and","comprises","a","community","of","over","500","volunteers."]
      }
  
  
@@ -801,7 +817,7 @@
        
        "img": "projects/OGP_Projektuebersicht_smallTile.png",
        
-       "content": ["As","part","of","the","Open","Government","Network,","we","support","Germany\u0026rsquo;s","active","participation","in","the","Open","Government","Partnership","(OGP)","and","the","interests","of","German","civil","society","in","this","process","and","coordinate","the","civil","society","network.","The","network","is","an","association","of","civil","society","organisations","and","individuals","that","has","been","working","since","2011","to","promote","open","government","and","administrative","action","as","a","holistic","approach","to","strengthening","democracy.","In","particular,","the","focus","is","on","the","exchange","with","the","Federal","Government","and","the","development","of","national","action","plans.","The","network","enables","female","citizens","to","participate","in","the","development","and","implementation","of","ambitious","Open","Government","reforms","and","to","expand","the","dialogue.","In","doing","so,","we","combine","the","expertise","of","our","members","and","strengthen","capacity","building","in","civil","society.","We","share","the","conviction","that","active","participation","by","the","Federal","Republic","of","Germany","in","the","Open","Government","Partnership","promotes","a","cultural","change","towards","greater","transparency,","participation","and","accountability","and","thus","stimulates","and","strengthens","democracy","and","the","quality","of","government","action."]
+       "content": ["As","part","of","the","Open","Government","Network,","we","support","Germany\u0026rsquo;s","active","participation","in","the","Open","Government","Partnership","(OGP)","and","the","interests","of","German","civil","society","in","this","process","and","coordinate","the","civil","society","network.","The","network","is","an","association","of","civil","society","organisations","and","individuals","that","has","been","working","since","2011","to","promote","open","government","and","administrative","action","as","a","holistic","approach","to","strengthening","democracy.","In","particular,","the","focus","is","on","the","exchange","with","the","Federal","Government","and","the","development","of","national","action","plans.","The","network","enables","citizens","to","participate","in","the","development","and","implementation","of","ambitious","Open","Government","reforms","and","to","expand","the","dialogue.","In","doing","so,","we","combine","the","expertise","of","our","members","and","strengthen","capacity","building","in","civil","society.","We","share","the","conviction","that","active","participation","by","the","Federal","Republic","of","Germany","in","the","Open","Government","Partnership","promotes","a","cultural","change","towards","greater","transparency,","participation","and","accountability","and","thus","stimulates","and","strengthens","democracy","and","the","quality","of","government","action."]
      }
  
  

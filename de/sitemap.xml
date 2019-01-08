@@ -2556,6 +2556,21 @@
   </url>
   
   <url>
+    <loc>https://beta.okfn.de/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://beta.okfn.de/blog/1/01/000000-fragdenstaat-enth%C3%BCllt-kunstedition-zur-informationsfreiheit/</loc>
   </url>
   
@@ -3707,20 +3722,6 @@
     <loc>https://beta.okfn.de/tags/iodc/</loc>
     <lastmod>2016-10-16T15:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://beta.okfn.de/jahresberichte/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/jahresberichte/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/jahresberichte/"
-                />
   </url>
   
   <url>
@@ -5127,6 +5128,20 @@
     <loc>https://beta.okfn.de/tags/t%C3%A4tigkeitsbericht/</loc>
     <lastmod>2013-02-05T08:00:32+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/jahresberichte/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/jahresberichte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/jahresberichte/"
+                />
   </url>
   
   <url>
