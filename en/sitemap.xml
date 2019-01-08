@@ -159,20 +159,6 @@
   </url>
   
   <url>
-    <loc>https://beta.okfn.de/en/finanzierung/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://beta.okfn.de/finanzierung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://beta.okfn.de/en/finanzierung/"
-                />
-  </url>
-  
-  <url>
     <loc>https://beta.okfn.de/en/projekte/2030-watch/</loc>
     <xhtml:link
                 rel="alternate"
@@ -537,6 +523,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://beta.okfn.de/en/projekte/farmsubsidy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://beta.okfn.de/en/finanzierung/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://beta.okfn.de/finanzierung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://beta.okfn.de/en/finanzierung/"
                 />
   </url>
   
