@@ -18,7 +18,7 @@
 <link rel="preload" href="/fonts/apercu-regular-pro.woff" as="font" type="font/woff" crossorigin>
 
 
-<link rel="stylesheet" href="/sass/main.min.a90ce4a9839c9089dbc603738df7d0eb99a28d4ab3aba853ced52e852f6ee00f.css">
+<link rel="stylesheet" href="/sass/main.min.9d7ec633ccd1680bad2ddc88453435bc38c958521346ced8d207ef60dec53211.css">
 <link rel="preload" href="/js/vendor/lunr.min.37574d69899ba2c6759c2d9f61b23ecb06fae2e3cc2c7ceaa74eb1a3d08438d4.js" as="script">
 <script src="/js/vendor/lunr.min.37574d69899ba2c6759c2d9f61b23ecb06fae2e3cc2c7ceaa74eb1a3d08438d4.js"></script>
 
@@ -26,8 +26,8 @@
 
 
 <link rel="preload" href="/js/site-search-index.json" as="fetch">
-<link rel="preload" href="/js/bundle.min.min.2516e1ed61f6995448925bbde668e6e9b5bbcd6761206d57f2b34debc724c351.js" as="script">
-<script src="/js/bundle.min.min.2516e1ed61f6995448925bbde668e6e9b5bbcd6761206d57f2b34debc724c351.js"></script>
+<link rel="preload" href="/js/bundle.min.min.c7df6670578bf620e6b9ddea042335582eab9e74013961385f7f7753127b7442.js" as="script">
+<script src="/js/bundle.min.min.c7df6670578bf620e6b9ddea042335582eab9e74013961385f7f7753127b7442.js"></script>
 
 
 
@@ -339,13 +339,24 @@
       <div class="col col-12">
         
 
-<div class="einnahmen-kategorien"></div>
+<div class="einnahmen-kategorien d3chart"></div>
 
 <p>Der Großteil (&gt;70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Hand. Diese beziehen wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten. Einzelspenden entsprechen ca. 20% unserer Einnahmen. Akteure der Privatwirtschaft stellen aktuell 7% unserer Gelder bereit. Wir sind bestrebt, eine heterogene Förderung mit geringem Privatwirtschaftlichen Anteil beizubehalten, um die Unabhängigkeit unserer Arbeit zu gewährleisten.</p>
 
 <h4 id="einnahmen-im-überblick">Einnahmen im Überblick</h4>
 
-<div class="einnahmen"></div>
+<div class="einnahmen d3chart"></div>
+
+<div id="js-incomes-nav" class="">
+    <a href="#income-donations">Spenden</a>
+    <a href="#income-institutions">Förderungen</a>
+    <a href="#income-companies">Sponsorings</a>
+    <a href="#income-services">Dienstleistungen</a>
+</div>
+<div class="js-incomes" id="income-donations"><div class="income-donations"></div>A</div>
+<div class="js-incomes" id="income-institutions"><div class="income-institutions"></div>B</div>
+<div class="js-incomes" id="income-companies"><div class="income-companies"></div>C</div>
+<div class="js-incomes" id="income-services"><div class="income-services"></div>D</div>
 
 <h4 id="durch-einzelspenden-finanzierte-oder-auf-ehrenamtlicher-arbeit-beruhende-projekte">Durch Einzelspenden finanzierte oder auf ehrenamtlicher Arbeit  beruhende Projekte</h4>
 
